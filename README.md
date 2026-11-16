@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Anna%20Schmidt&fontSize=52&fontAlignY=38&desc=Desenvolvedora%20Frontend%20✦%20Apaixonada%20por%20tecnologia&descAlignY=58&descSize=16&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=180&section=header&text=Anna%20Schmidt&fontSize=52&fontAlignY=38&desc=Desenvolvedora%20FullStack%20✦%20Apaixonada%20por%20tecnologia&descAlignY=58&descSize=16&fontColor=fff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -71,7 +71,7 @@ Acredito que a tecnologia tem o poder de transformar o mundo, e quero fazer part
 
 - 📚 Aprofundando em **Next.js** e **Node.js**
 - 🔭 Construindo projetos para o portfólio
-- 💬 Aberta a colaborações e oportunidades de primeiro emprego
+- 💬 Aberta a colaborações e oportunidades de emprego
 - ⚡ Fun fact: Acredito que código bem escrito é uma forma de arte
 
 <br/>
